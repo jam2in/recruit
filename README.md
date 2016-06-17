@@ -3,7 +3,7 @@
 안녕하세요 !!
 
 NAVER에서 개발한 memory cache cloud인 **[ARCUS](http://naver.github.io/arcus/)**에 대해
-전문적인 개발/컨설팅/기술지원을 제공하는 기술 중심 회사 **[잼투인(주)](https://www.facebook.com/jam2in)** 입니다.
+전문적인 개발/컨설팅/기술지원을 제공하는 기술 중심 회사 **[잼투인(주)](http://www.jam2in.com)** 입니다.
 
 ARCUS를 더욱 발전시켜 나갈 수 있고, 국내의 서비스들에 기여할 수 있는 NoSQL을
 개발하고자 하는 열정과 역량을 가진 최고의 개발자 분들을 모시고자 합니다.
@@ -85,7 +85,7 @@ ARCUS를 더욱 발전시켜 나갈 수 있고, 국내의 서비스들에 기여
 
 지원 의사가 결정되면, 지원서는 아래 메일로 보내주세요.
 
-- dl_recruit@jam2in.com
+- recruit@jam2in.com
 
 지원서 검토 및 평가는 아래 순서로 진행됩니다.
 
