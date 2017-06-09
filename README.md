@@ -2,10 +2,11 @@
 
 안녕하세요!
 
-**잼투인(주)** (<http://www.jam2in.com>)은 **NAVER에서 개발하여 오픈한 ARCUS solution의 핵심 개발 인력이 설립한 스타트업 회사**로, ARCUS의 개발 및 시스템 구축과 운영에 관련한 컨설팅, 기술지원을 전문적으로 하는 기술 중심 회사입니다.  
+**잼투인(주)** (<http://www.jam2in.com>)은 **NAVER에서 개발하여 오픈한 ARCUS solution의 핵심 개발 인력이 설립한 스타트업 회사**로, ARCUS의 개발 및 시스템 구축과 운영에 관련한 컨설팅, 기술지원을 전문적으로 하는 기술 중심 회사입니다.  
 
 [**ARCUS**](<http://naver.github.io/arcus>)는 오픈소스 프로젝트인 [memcached](<https://memcached.org>)와 [ZooKeeper](<https://zookeeper.apache.org>)를 기반으로 확장하여 개발한 **Key-Value** 모델의 **Memory Cache Cloud Solution** 이며, 2014년 5월부터 오픈소스로 공개되었습니다.
-ARCUS는 현재 **NAVER, LINE, BAND, KAKAO** 등 대규모 데이터의 처리를 필요로 하는 다양한 기업에서 사용되고 있습니다.
+
+ARCUS는 현재 **NAVER, LINE, BAND, KAKAO** 등 대규모 데이터의 처리를 필요로 하는 다양한 기업에서 사용되고 있습니다.
 
 
 ## 잼투인(주) 기술 개발 방향 
