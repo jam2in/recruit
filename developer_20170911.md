@@ -13,7 +13,7 @@ NoSQL System SW 개발에 관심과 열정이 있으며,  <br />
 
 > - 자격 요건
 >    - NoSQL, DBMS, Distributed System 등에 대한 기술적 이해 및 구현 능력
->    - Moden hardware에 대한 기술적 이해 및 활용 능력 
+>    - Modern hardware에 대한 기술적 이해 및 활용 능력 
 >    - C 기반의 System Programming에 능통 (debugging, profiling 포함)
 >    - Complex code reading을 통한 이해 및 분석 능력
 >    - Paper 이해 및 작성 능력
@@ -27,7 +27,7 @@ NoSQL System SW 개발에 관심과 열정이 있으며,  <br />
 **[신입 개발자 채용]**
 
 > - 자격 요건
->    - 컴퓨터 공학 및 관련 계열 전공
+>    - 컴퓨터 공학 및 관련 계열 전공 (기졸업자 또는 졸업예정자)
 >    - C or Java 기반의 System Programming 능력 
 >    - Network Programming 능력
 >    - NoSQL, DBMS, Distributed System 등에 대한 기본 기술 이해
