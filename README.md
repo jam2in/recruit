@@ -30,7 +30,8 @@ ARCUS는 현재 **NAVER, LINE, BAND, KAKAO** 등 대규모 데이터의 처리�
 
 
 ## 진행 모집 공고
-- [경영/기술 지원 채용 공고](management_support_20170911.md)<br><br><br>
+- [경영/기술 지원 채용 공고](management_support.md)
+- [경영지원 파트타임 채용](management_support_20170911.md)<br><br><br>
 
 
 
