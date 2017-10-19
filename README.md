@@ -30,13 +30,10 @@ ARCUS는 현재 **NAVER, LINE, BAND, KAKAO** 등 대규모 데이터의 처리�
 
 
 ## 진행 모집 공고
-- [ARCUS 서버 개발 (신입/경력)](server_developer_20170918.md)
-- [ARCUS 도구 개발 (경력)](tool_developer_170918.md)
-- [기획/마케팅/기술영업 담당 (경력)](product_manager_sales_20170918.md)<br><br><br>
 
-
-
-
+- [ARCUS 서버 개발](dev_nosql_job.md)
+- [ARCUS 도구 개발](dev_tools_job.md)
+- [기획/마케팅/기술영업](marketing_sales_job.md)
 
 ## 공통 지원 자격
 
