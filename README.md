@@ -29,7 +29,7 @@ ARCUS는 현재 **NAVER, LINE, BAND, KAKAO** 등 대규모 데이터의 처리�
 - 개발자에게 **스트레스 없는 근무 환경**을 제공하고자 노력할 것입니다.
 
 
-## 진행 모집 공고
+## 채용 모집 공고
 
 - **[ARCUS 서버 개발](dev_nosql_job.md)**
 - **[ARCUS 도구 개발](dev_tools_job.md)**
