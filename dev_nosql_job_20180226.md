@@ -4,7 +4,19 @@
 [ARCUS](http://naver.github.io/arcus/) 개발/컨설팅/기술지원 회사인
 [잼투인(주)](http://www.jam2in.com/)에서 **NoSQL System SW 개발자**를 채용합니다.
 
-NoSQL System SW 개발에 대한 관심/열정이 있으며, <br /> 
+최근의 연구 개발 작업으로는 <br /> 
+cluster 형상 변경을 위한 node join/leave 시의 data migration 개발, <br /> 
+다른 IDC에 위치하는 cluster들 간의 cross datacenter replication 개발, <br /> 
+그리고, disk-resident & in-memory key-value DB engine 개발 등이 있습니다. <br /> 
+
+향후의 연구 개발 작업에는 <br /> 
+현재의 DB engine을 사용하여 key-value DB cluster를  완성하고, <br /> 
+다양한 응용에서 보다 사용하기 유용하도록 data model을 확장하고, <br /> 
+다양한 응용 언어를 지원하기 위한 proxy server를 개발하며, <br /> 
+GIS 데이터를 다룰 수 있는 기능을 제공하는 작업 등이 있습니다. <br /> 
+
+이러한 연구 개발 작업을 leading하여 진행할 수 있는 경력 개발자를 채용합니다. <br />
+NoSQL System SW 개발에 대한 관심/열정/책임감이 있으며, <br /> 
 다양한 data management systems과 distributed systems 분야의 기술적 이해와 설계/구현 <br />
 경험을 가진 경력 개발자 또는 해당 전공의 석/박사 개발자이라면, 많이 지원 바랍니다. <br />
 &nbsp;
