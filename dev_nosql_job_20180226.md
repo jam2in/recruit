@@ -13,7 +13,7 @@ cluster 형상 변경을 위한 node join/leave 시의 data migration 개발, <b
 현재의 DB engine을 사용하여 key-value DB cluster를  완성하고, <br /> 
 다양한 응용에서 보다 사용하기 유용하도록 data model을 확장하고, <br /> 
 다양한 응용 언어를 지원하기 위한 proxy server를 개발하며, <br /> 
-GIS 데이터를 다룰 수 있는 기능을 제공하는 작업 등이 있습니다. <br /> 
+GIS 데이터를 다룰 수 있는 기능을 제공하는 개발 등이 있습니다. <br /> 
 
 이러한 연구 개발 작업을 leading하여 진행할 수 있는 경력 개발자를 채용합니다. <br />
 NoSQL System SW 개발에 대한 관심/열정/책임감이 있으며, <br /> 
