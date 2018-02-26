@@ -1,4 +1,4 @@
-## 잼투인(주) NoSQL System SW 개발자 채용
+## 잼투인(주) NoSQL System SW 개발자 채용 (2/26 ~ 3/16)
 
 &nbsp; <br />
 [ARCUS](http://naver.github.io/arcus/) 개발/컨설팅/기술지원 회사인
