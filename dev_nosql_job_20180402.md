@@ -1,27 +1,35 @@
-## 잼투인(주) NoSQL System SW 개발자 채용 (2018 4/02 ~ 4/20)
+## 잼투인(주) System SW 신입/경력 개발자 채용 (2018 4/02 ~ 4/20)
 
 &nbsp; <br />
 [ARCUS](http://naver.github.io/arcus/) 개발/컨설팅/기술지원 회사인
 [잼투인(주)](http://www.jam2in.com/)에서 **NoSQL System SW 개발자**를 채용합니다.
 
-최근의 연구 개발 작업으로는 <br /> 
-cluster 형상 변경을 위한 node join/leave 시의 data migration 개발, <br /> 
-다른 IDC에 위치하는 cluster들 간의 cross datacenter replication 개발, <br /> 
-그리고, disk-resident & in-memory key-value DB engine 개발 등이 있습니다. <br /> 
+최근의 연구/개발 작업 목록은 다음과 같습니다. 
+- Cache cluster에서 node join/leave 시의 data migration 개발
+- 다른 IDC에 위치하는 clusters 간의 cross datacenter replication 개발
+- Disk-resident & in-memory key-value DB engine 개발
 
-향후의 연구 개발 작업에는 <br /> 
-현재의 DB engine을 사용하여 key-value DB cluster를  완성하고, <br /> 
-다양한 응용에서 보다 사용하기 유용하도록 data model을 확장하고, <br /> 
-다양한 응용 언어를 지원하기 위한 proxy server를 개발하며, <br /> 
-GIS 데이터를 다룰 수 있는 기능을 제공하는 개발 등이 있습니다. <br /> 
+향후의 연구/개발 작업 목록은 다음과 같습니다.
+- 현재 개발 중인 DB engine 기반으로 key-value DB cluster 개발
+- 다양한 응용들에 유용하게 사용될 수 있도록 data model 확장
+- 다양한 응용 언어를 지원하기 위한 proxy server 개발
+- 대규모 위치 데이터의 저장과 검색 기능 개발
+- 최근 하드웨어 환경에 최적화된 data store 개발
 
-이러한 연구 개발 작업을 leading하여 진행할 수 있는 경력 개발자를 채용합니다. <br />
-NoSQL System SW 개발에 대한 관심/열정/책임감이 있으며, <br /> 
-다양한 data management systems과 distributed systems 분야의 기술적 이해와 설계/구현 <br />
-경험을 가진 경력 개발자 또는 해당 전공의 석/박사 개발자이라면, 많이 지원 바랍니다. <br />
+위의 연구/개발 주제를 찬찬히 살펴보시길 바라며, <br />
+이 분야에서 최고의 system SW 개발자로 성장하고자 하는 분이라면 지원 바랍니다. <br />
 &nbsp;
 
-**[경력 개발자 채용]**
+잼투인은 작은 회사이지만 개발자 중심의 기술 회사로 아래 장점을 제공합니다.
+- 많은 기술적 도전 작업 부여 (기술적 이론과 개발 모두)
+- 기술 공유 및 교육 중시
+- 중견 기업 수준의 급여 제공 (성과가 탁월하면 그 이상도 가능)
+- 원하는 수준의 개발 장비 지급
+- 탄력적인 출퇴근 시간
+- 자유로운 휴가 날짜 결정
+- 필요한 간식은 상시 제공
+
+**[System SW 개발자 채용]**
 
 > - 자격 요건
 >    - NoSQL, DBMS, Distributed systems 등의 기술적 이해와 설계/구현 능력
