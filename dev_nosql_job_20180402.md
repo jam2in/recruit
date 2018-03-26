@@ -14,7 +14,7 @@
 
 향후의 연구/개발 작업 목록은 다음과 같습니다.
 - 현재 개발 중인 DB engine 기반으로 key-value DB cluster 개발
-- 다양한 응용들에 유용하게 사용될 수 있도록 data model 확장
+- 다양한 응용들에 유용하게 사용되도록 data model 확장
 - 다양한 응용 언어를 지원하기 위한 proxy server 개발
 - 대규모 위치 데이터의 저장과 검색 기능 개발
 - 최근 하드웨어 환경에 최적화된 data store 개발
