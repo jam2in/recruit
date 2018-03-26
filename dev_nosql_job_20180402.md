@@ -19,7 +19,10 @@
 - 대규모 위치 데이터의 저장과 검색 기능 개발
 - 최근 하드웨어 환경에 최적화된 data store 개발
 
-잼투인은 작은 회사이지만 개발자 중심의 기술 회사로 아래 장점을 제공합니다.
+&nbsp;
+
+잼투인은 작은 회사이지만 <br />
+개발자 중심의 기술 회사로 아래 장점을 제공합니다.
 - 많은 기술적 도전 작업 부여 (기술적 이론과 개발 모두)
 - 기술 공유 및 교육 중시
 - 중견 기업 수준의 급여 제공 (성과가 탁월하면 그 이상도 가능)
@@ -30,7 +33,21 @@
 
 &nbsp;
 
-**[System SW 개발자 채용]**
+**[신입 개발자]**
+
+> - 자격 요건
+>    - NoSQL, DBMS, Distributed systems 등의 기술적 이해와 설계/구현 능력
+>    - Modern hardware(CPU, Memory, Network, ...)에 대한 기술적 이해 및 활용 능력 
+>    - C 기반의 system programming 능통 (debugging, profiling 포함)
+>    - Complex code(thread, networking, synchronization, ...) 이해 및 분석 능력
+>    - 전공 분야 paper 이해 및 작성 능력
+> - 우대 사항 
+>    - 관련 전공의 석/박사 학위
+>    - (석/박사 포함) 경력 15년 이하
+>    - Data store 관련 우수 개발 실적
+>    - 정확하고 부드러운 커뮤니케이션 능력
+
+**[경력 개발자]**
 
 > - 자격 요건
 >    - NoSQL, DBMS, Distributed systems 등의 기술적 이해와 설계/구현 능력
