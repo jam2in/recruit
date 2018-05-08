@@ -1,6 +1,6 @@
 <!-- ## 잼투인(주) NoSQL 마케팅/기술영업 채용 (2018 5/9 ~ 5/25) -->
 <!--
-![](https://github.com/jam2in/recruit/blob/master/images/dev_nosql_job_image.png)
+![](https://github.com/jam2in/recruit/blob/master/images/dev_nosql_job_image_60.png)
 -->
 
 ![](https://github.com/jam2in/recruit/blob/master/images/jam2in-marketing-sales-job-image.png)
