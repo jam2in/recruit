@@ -1,6 +1,5 @@
 ## 잼투인(주) NoSQL System SW 개발자 채용 (2018 5/9 ~ 5/25)
 
-&nbsp; <br />
 [ARCUS(Memory Cache Cluster)](http://naver.github.io/arcus/) 개발하는
 [잼투인(주)](http://www.jam2in.com/)에서 **NoSQL System SW 개발자**를 채용합니다. <br /> 
 잼투인과 함께 아래 연구/개발에서 최고의 system SW 개발자로 성장하실 분이라면 지원 바랍니다. <br />
