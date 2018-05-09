@@ -14,10 +14,9 @@ ARCUS는 **NAVER, LINE, BAND, KAKAO** 등에서 대량의 요청 처리에 필�
 
 ### 채용 모집 공고
 
-- 현재 진행 중인 채용이 없음
-<!--
-- [NoSQL System 신입/경력 개발자 채용 (2018 4/02 ~ 4/20)](dev_nosql_job_20180402.md)
--->
+
+- [NoSQL System SW 신입/경력 개발자 채용 (2018 5/9 ~ 5/25)](dev_nosql_job_20180509.md)
+- [NoSQL 마케팅/기술영업 전문가 채용 (2018 5/9 ~ 5/25)](marketing_sales_job_20180509.md)
 <br /> &nbsp;
 
 
