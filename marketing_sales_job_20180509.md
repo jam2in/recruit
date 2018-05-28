@@ -1,9 +1,6 @@
 <!-- ## 잼투인(주) NoSQL 마케팅/기술영업 채용 (2018 5/9 ~ 5/25) -->
-<!--
-![](https://github.com/jam2in/recruit/blob/master/images/dev_nosql_job_image.png)
--->
 
-![](https://github.com/jam2in/recruit/blob/master/images/jam2in-marketing-sales-job-image.png?raw=true)
+![](https://github.com/jam2in/recruit/blob/master/images/jam2in-marketing-sales-job-image-20180509.png)
 
 [ARCUS(Memory Cache Cluster)](http://naver.github.io/arcus/) 개발하는
 [잼투인(주)](http://www.jam2in.com/)에서 **마케팅/기술영업 전문가**를 채용합니다. <br /> 
