@@ -18,7 +18,7 @@ ARCUS는 **NAVER, LINE, BAND, KAKAO** 등에서 대량의 요청 처리에 필�
 아래 모집 분야를 보시고, 관심이 있으시면 <recruit@jam2in.com> 메일로 연락주세요.
 
 - [NoSQL System SW 신입/경력 개발자 채용](dev_nosql_job_always.md)
-- [NoSQL 마케팅/기술영업 전문가 채용](marketing_sales_job_always.md)
+- [NoSQL System SW 마케팅/기술영업 채용](marketing_sales_job_always.md)
 <br /> &nbsp;
 
 
