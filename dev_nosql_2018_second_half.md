@@ -1,6 +1,6 @@
 <!-- ## 잼투인(주) NoSQL System SW 개발자 채용 (2018 8/21 ~ 9/11) -->
 
-![](https://github.com/jam2in/recruit/blob/master/images/jam2in-dev-nosql-job-image-20180509.png)
+![](https://github.com/jam2in/recruit/blob/master/images/dev_nosql_2018_second_half.png)
 
 [ARCUS(Memory Cache Cluster)](http://naver.github.io/arcus/) 개발하는
 [잼투인(주)](http://www.jam2in.com/)에서 **NoSQL System SW 개발자**를 채용합니다. <br /> 
