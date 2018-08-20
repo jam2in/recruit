@@ -1,6 +1,5 @@
-## 잼투인(주) 인턴 개발자 채용(8/21 ~ 9/11)
+![](https://github.com/jam2in/recruit/blob/master/images/dev_intern_2018_second_half.png)
 
-안녕하세요!
 
 ARCUS 개발, 컨설팅, 기술지원 회사 잼투인(주)에서 **정규직 전환 목적의 인턴 채용**을 진행합니다.
 
