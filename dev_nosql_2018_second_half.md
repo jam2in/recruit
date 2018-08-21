@@ -38,6 +38,20 @@
 >    - 정확하고 부드러운 커뮤니케이션 능력 
 
 
+**[경력 개발자]**
+
+> - 자격 요건
+>    - NoSQL, DBMS, Distributed systems 등의 기술적 이해와 설계/구현 능력
+>    - Modern hardware(CPU, Memory, Network, ...)에 대한 기술적 이해 및 활용 능력 
+>    - C 기반의 system programming 능통 (debugging, profiling 포함)
+>    - Complex code(thread, networking, synchronization, ...) 이해 및 분석 능력
+>    - 전공 분야 paper 이해 및 작성 능력
+> - 우대 사항 
+>    - 관련 전공의 석/박사 학위
+>    - (석/박사 포함) 경력 15년 이하
+>    - Data store 관련 우수 개발 실적
+>    - 정확하고 부드러운 커뮤니케이션 능력
+
 **[지원 방법 및 절차]**
 
 > - 지원 서류: PDF 문서
