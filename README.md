@@ -14,10 +14,13 @@ ARCUS는 **NAVER, LINE, BAND, KAKAO** 등에서 대량의 요청 처리에 필�
 
 ### 채용 모집 공고
 
-현재 공식적인 채용 기간은 아니지만, 채용 자리가 일부 남아 있는 상태입니다. <br />
-아래 모집 분야를 보시고, 관심이 있으시면 <recruit@jam2in.com> 메일로 연락주세요.
+2018년 하반기 채용입니다. <br />
 
-- [NoSQL System SW 신입/경력 개발자 채용](dev_nosql_job_always.md)
+- [NoSQL System SW 신입/경력 개발자 채용 (2018 8/21 ~ 9/11)](dev_nosql_2018_second_half.md)
+- [NoSQL System SW 인턴 개발자 채용 (2018 8/21 ~ 9/11)](dev_intern_2018_second_half.md)
+<br /> &nbsp;
+
+마케팅/기술영업 분야는 상시 모집합니다. <br />
 - [NoSQL System SW 마케팅/기술영업 채용](marketing_sales_job_always.md)
 <br /> &nbsp;
 
