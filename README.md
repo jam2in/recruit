@@ -16,8 +16,8 @@ ARCUS는 **NAVER, LINE, BAND, KAKAO** 등에서 대량의 요청 처리에 필�
 
 2018년 하반기 채용입니다. <br />
 
-- [NoSQL System SW 신입/경력 개발자 채용 (2018 8/21 ~ 9/11)](dev_nosql_2018_second_half.md)
-- [NoSQL System SW 인턴 개발자 채용 (2018 8/21 ~ 9/11)](dev_intern_2018_second_half.md)
+- [NoSQL System SW 신입/경력 개발자 채용 (2018 9/18 ~ 9/30)](dev_nosql_2018_second_half.md)
+- [NoSQL System SW 인턴 개발자 채용 (2018 9/18 ~ 9/30)](dev_intern_2018_second_half.md)
 <br /> &nbsp;
 
 마케팅/기술영업 분야는 상시 모집합니다. <br />
