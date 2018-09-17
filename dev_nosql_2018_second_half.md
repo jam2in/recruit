@@ -1,6 +1,6 @@
-<!-- ## 잼투인(주) NoSQL System SW 개발자 채용 (2018 8/21 ~ 9/11) -->
+<!-- ## 잼투인(주) NoSQL System SW 개발자 채용 (2018 9/18 ~ 9/30) -->
 
-![](https://github.com/jam2in/recruit/blob/master/images/dev_nosql_2018_second_half.png)
+![](https://github.com/jam2in/recruit/blob/master/images/dev_nosql_2018_second_half_v2.png)
 
 [ARCUS(Memory Cache Cluster)](http://naver.github.io/arcus/) 개발하는
 [잼투인(주)](http://www.jam2in.com/)에서 **NoSQL System SW 개발자**를 채용합니다. <br /> 
@@ -59,7 +59,7 @@
 >    - 성적이력서(필수)
 >    - 제출처: <recruit@jam2in.com>
 > - 전형 절차: 서류전형 => 면접(1 or 2회) => 입사
->    - 서류 결과는 9/13(목)까지 알려 드리며,
+>    - 서류 결과는 10/02(화)까지 알려 드리며,
 >    - 면접 일정은 개별적으로 안내 드립니다.
 > - 기타 사항
 >    - 적합한 인력이 없다면 채용하지 않을 수 있습니다.

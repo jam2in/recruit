@@ -1,6 +1,6 @@
-<meta property="og:image" content="https://github.com/jam2in/recruit/blob/master/images/dev_intern_2018_second_half.png" />
+<meta property="og:image" content="https://github.com/jam2in/recruit/blob/master/images/dev_intern_2018_second_half_v2.png" />
 
-<!-- ## 잼투인(주) NoSQL System SW 인턴 개발자 채용 (2018 8/21 ~ 9/11) -->
+<!-- ## 잼투인(주) NoSQL System SW 인턴 개발자 채용 (2018 9/18 ~ 9/30) -->
 
 
 ![](https://github.com/jam2in/recruit/blob/master/images/dev_intern_2018_second_half.png)
@@ -49,16 +49,16 @@ SW 개발 업무를 맡아 다음과 같은 일을 맡게 됩니다.
 ## 전형절차 및 일정
 
 - 자격조건 : **정규직 전환 가능한 지원자** (졸업예정자, 기졸업자 등)  
-- 지원 기간: **8/21(화) ~ 9/11(화)**
-- 서류 발표: **9/13(목)** (합격자 개별 통보)  
-- 실무 면접: **9/17(월) ~ 9/20(목)**  
+- 지원 기간: **9/18(화) ~ 9/30(일)**
+- 서류 발표: **10/02(화)** (합격자 개별 통보)  
+- 실무 면접: **10/04(목) ~ 10/11(목)**  
   - 필요에 따라 실무 면접 전 간단한 전화 면접을 시행할 수 있습니다.
   - 알고리즘, 자료구조, 운영체제, 데이터베이스 등 전공 지식 이해도
-- 최종 합격자 통보: **9/21(금)**
+- 최종 합격자 통보: **10/15(월)**
 
 ## 근무조건
 
-- 근무기간: **10/01(월)** 부터 3개월
+- 근무기간: **11/01(월)** 부터 3개월
 - 근무조건: **1개월 150만원** 
 - 3개월 후 협의를 통해 정규직 전환
 
