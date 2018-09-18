@@ -1,4 +1,4 @@
-<meta property="og:image" content="https://github.com/jam2in/recruit/blob/master/images/dev_intern_2018_second_half_v2.png" />
+<meta property="og:image" content="https://github.com/jam2in/recruit/blob/master/images/dev_intern_2018_second_half.png" />
 
 <!-- ## 잼투인(주) NoSQL System SW 인턴 개발자 채용 (2018 9/18 ~ 9/30) -->
 
