@@ -1,4 +1,4 @@
-## 잼투인(주) 개발자 채용
+## 잼투인(주) 인력 채용
 
 안녕하세요!
 
@@ -14,8 +14,9 @@ ARCUS는 **NAVER, LINE, BAND, KAKAO** 등에서 대량의 요청 처리에 필�
 
 ### 채용 모집 공고
 
-2018년 하반기 채용입니다. <br />
+2019년 잼투인 채용입니다. <br />
 
+<!---
 - [NoSQL System SW 신입/경력 개발자 채용 (2018 9/18 ~ 9/30)](dev_nosql_2018_second_half.md)
 - [NoSQL System SW 인턴 개발자 채용 (2018 9/18 ~ 9/30)](dev_intern_2018_second_half.md)
 <br /> &nbsp;
@@ -23,7 +24,7 @@ ARCUS는 **NAVER, LINE, BAND, KAKAO** 등에서 대량의 요청 처리에 필�
 마케팅/기술영업 분야는 상시 모집합니다. <br />
 - [NoSQL System SW 마케팅/기술영업 채용](marketing_sales_job_always.md)
 <br /> &nbsp;
-
+--->
 
 ### 기술 개발 방향 
 
