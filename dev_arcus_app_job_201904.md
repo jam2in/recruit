@@ -2,7 +2,11 @@
 ### ARCUS 응용 개발자 채용 (2019 4/22 ~ 5/12)
 -->
 
-![](https://github.com/jam2in/recruit/blob/master/images/jam2in-dev-arcus-app-job-image-201904.png)
+<!--
+![](https://github.com/jam2in/recruit/blob/master/images/jam2in-dev-arcus-app-job-image-201904.png = 600 x )
+-->
+
+<img src="https://github.com/jam2in/recruit/blob/master/images/jam2in-dev-arcus-app-job-image-201904.png" width="642" height="212">
 
 [ARCUS(Memory Cache Cluster)](http://naver.github.io/arcus/) 개발하는
 [잼투인(주)](http://www.jam2in.com/)에서 **ARCUS 응용 개발자**를 채용합니다.
