@@ -1,4 +1,4 @@
-## ARCUS 응용 개발자 채용 (2019 4/22 ~ 5/12)
+### ARCUS 응용 개발자 채용 (2019 4/22 ~ 5/12)
 <!--
 ![](https://github.com/jam2in/recruit/blob/master/images/dev_nosql_2018_second_half.png)
 -->
