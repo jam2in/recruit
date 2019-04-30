@@ -2,10 +2,6 @@
 ### ARCUS 응용 개발자 채용 (2019 5/02 ~ 5/19)
 -->
 
-<!--
-![](https://github.com/jam2in/recruit/blob/master/images/jam2in-dev-arcus-app-job-image-201904.png = 600 x )
--->
-
 <img src="https://github.com/jam2in/recruit/blob/master/images/jam2in-dev-arcus-apptech-job-image-201904.png" width="750" height="270">
 
 [ARCUS(Memory Cache Cluster)](http://naver.github.io/arcus/) 개발하는
@@ -14,7 +10,7 @@
 
 **[담당업무]**
 
-아래 업무들 중 지원자의 선호도/경력을 고려하여 실제 업무가 배정됩니다.
+아래 업무들 중 지원자의 선호도, 개발경험 등을 고려하여 실제 업무가 배정됩니다.
 
 > - 다양한 응용들에 ARCUS 적용을 돕는 공통모듈 개발
 > - ARCUS 클라우드 서비스 개발
