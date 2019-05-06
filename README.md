@@ -16,6 +16,9 @@ ARCUS는 **NAVER, LINE, BAND, KAKAO** 등에서 대량의 요청 처리에 필�
 
 2019년 잼투인 채용입니다. <br />
 
+- [ARCUS 응용 개발자 채용 (2019 5/02(목) ~ 5/19(일))](dev_arcus_apptech_job_201904.md)
+<br /> &nbsp;
+
 <!---
 - [NoSQL System SW 신입/경력 개발자 채용 (2018 9/18 ~ 9/30)](dev_nosql_2018_second_half.md)
 - [NoSQL System SW 인턴 개발자 채용 (2018 9/18 ~ 9/30)](dev_intern_2018_second_half.md)
