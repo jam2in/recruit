@@ -16,8 +16,13 @@ ARCUS는 **NAVER, LINE, BAND, KAKAO** 등에서 대량의 요청 처리에 필�
 
 2020년 잼투인 채용입니다. <br />
 
+- [ARCUS 마케팅/기술영업 채용(6월 오픈 예정)]
+<br /> &nbsp;
+
+<!---
 - [ARCUS 응용 개발자 채용 (2020 3/10(화) ~ 4/10(금))](dev_arcus_apptech_job_202004.md)
 <br /> &nbsp;
+--->
 
 <!---
 - [NoSQL System SW 신입/경력 개발자 채용 (2018 9/18 ~ 9/30)](dev_nosql_2018_second_half.md)
