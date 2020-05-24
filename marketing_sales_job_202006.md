@@ -1,6 +1,6 @@
 <!-- ## 잼투인(주) ARCUS 마케팅/기술영업 채용 (2020 6/1 ~ 6/26) -->
 
-![](https://github.com/jam2in/recruit/blob/master/images/jam2in-marketing-sales-job-image-20180509.png)
+![](https://github.com/jam2in/recruit/blob/master/images/jam2in-marketing-sales-job-image-202006.png)
 
 [ARCUS(Memory Cache Cluster)](http://naver.github.io/arcus/) 개발하는
 [잼투인(주)](http://www.jam2in.com/)에서 **마케팅/기술영업 인력**을 채용합니다. <br /> 
