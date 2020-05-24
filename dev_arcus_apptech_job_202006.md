@@ -2,7 +2,7 @@
 ### ARCUS 응용 개발자 채용 (2020 6/1 ~ 6/30)
 -->
 
-<img src="https://github.com/jam2in/recruit/blob/master/images/jam2in-dev-arcus-apptech-job-image-202004.png">
+<img src="https://github.com/jam2in/recruit/blob/master/images/jam2in-dev-arcus-apptech-job-image-202004.png" width="75%" height="75%"></img>
 
 [ARCUS(Memory Cache Cluster)](http://naver.github.io/arcus/) 개발하는
 [잼투인(주)](http://www.jam2in.com/)에서 **ARCUS 응용 개발자**를 채용합니다.
@@ -33,7 +33,8 @@
 
 
 ## 복리후생
-잼투인(주)은 작지만 개발자 중심의 기술 회사입니다. 개발자를 위한 최상의 근무 환경을 위해 아래의 복리후생을 제공하고 있습니다.
+잼투인(주)은 작지만 개발자 중심의 기술 회사입니다.
+개발자를 위한 최상의 근무 환경을 위해 아래의 복리후생을 제공하고 있습니다.
 
 > - 4대 보험(국민연금, 의료보험, 고용보험, 산재보험), 퇴직연금
 > - 사내 기술 공유, 외부 세미나 참석 및 각종 교육 지원
