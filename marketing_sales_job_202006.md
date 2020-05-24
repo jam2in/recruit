@@ -1,6 +1,6 @@
 <!-- ## 잼투인(주) ARCUS 마케팅/기술영업 채용 (2020 6/1 ~ 6/26) -->
 
-<img src="https://github.com/jam2in/recruit/blob/master/images/jam2in-marketing-sales-job-image-202006.png" width="70%" height="70%"></img>
+<img src="https://github.com/jam2in/recruit/blob/master/images/jam2in-marketing-sales-job-image-202006.png" width="75%" height="75%"></img>
 
 <!--
 ![](https://github.com/jam2in/recruit/blob/master/images/jam2in-marketing-sales-job-image-202006.png)
