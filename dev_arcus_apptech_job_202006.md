@@ -1,5 +1,5 @@
 <!--
-### ARCUS 응용 개발자 채용 (2020 6/1 ~ 6/30)
+### ARCUS 응용 개발자 채용 (2020 6/1 ~ 7/24)
 -->
 
 <img src="https://github.com/jam2in/recruit/blob/master/images/jam2in-dev-arcus-apptech-job-image-202006.png" width="80%" height="80%"></img>
@@ -19,17 +19,19 @@
 
 ## 자격요건
 
-> - Java, Spring Framework 기반의 개발 경력 3년 이상 또는 그에 준하는 경력
+> - 신입/경력 3년 이상 (사원, 대리급)
+> - Java 기반의 개발 경험
 > - Linux 환경에서의 개발 및 경험
 > - 정확하고 부드러운 커뮤니케이션 능력
 
 ## 우대사항
 
+> - Spring Framework 이해 및 개발 경험
+> - React, 프론트엔드 기술 이해 및 개발 경험
 > - Data Store(Cache, NoSQL)에 대한 이해와 사용 경험
 > - 컨테이너 환경(Docker, Kubernetes)에서의 개발 및 운영 경험
-> - React 프런트엔드 이해 및 개발 경험
 > - 오픈소스 모니터링 솔루션 (Grafana, Prometheus) 사용 경험
-> - Go, Python, Javascript 등의 기타 언어 사용 및 새로운 기술 습득에 대해 거부감이 없으신 분
+> - Go, Python, Javascript 등의 기타 언어 사용 및 새로운 기술 습득에 대해 거부감이 없으신 분 분
 
 
 ## 복리후생
@@ -52,7 +54,7 @@
 >    - 희망 연봉 포함하여 희망 근무 조건이 있다면 기재 바랍니다.
 >    - 제출처: <recruit@jam2in.com>
 > - 전형절차: 서류전형 => 면접(1 or 2회) => 입사
->    - 서류 결과는 7/7(화)까지 알려 드리며,
+>    - 서류 결과는 7/31(금)까지 알려 드리며,
 >    - 면접 일정은 개별적으로 안내 드립니다.
 > - 기타사항
 >    - 적합한 인력이 없다면 채용하지 않을 수 있습니다.
