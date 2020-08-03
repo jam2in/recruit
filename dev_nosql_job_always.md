@@ -31,9 +31,9 @@
 >    - 컴퓨터 공학 및 관련 계열 전공 (기졸업자 또는 졸업예정자)
 >    - C or Java 기반의 System Programming 능력 
 >    - Network Programming 능력
->    - NoSQL, DBMS, Distributed System 등에 대한 기본 기술 이해
+>    - NoSQL, DBMS, Distributed Systems 등에 대한 기본 기술 이해
 > - 우대 사항
->    - NoSQL 개발에 대한 경험/관심/열정
+>    - NoSQL, DBMS, Distributed Systems 개발에 대한 경험/관심/열정
 >    - 우수 개발 잠재력/가능성의 객관적 자료 (Github, Blog, 포트폴리오 등)
 >    - 정확하고 부드러운 커뮤니케이션 능력 
 
