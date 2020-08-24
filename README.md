@@ -17,7 +17,6 @@ ARCUS는 **NAVER, LINE, BAND, KAKAO** 등에서 대량의 요청 처리에 필�
 2020년 잼투인 채용입니다. <br />
 
 - [ARCUS 응용 개발자 채용](dev_arcus_apptech_job_202008.md)
-
 <br /> &nbsp;
 
 <!---
