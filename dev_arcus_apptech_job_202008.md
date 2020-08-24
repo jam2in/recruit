@@ -4,7 +4,7 @@
 
 <img src="https://github.com/jam2in/recruit/blob/master/images/jam2in-dev-arcus-apptech-job-image-202008.png" width="80%" height="80%"></img>
 
-[ARCUS(Memory Cache Cluster)](http://naver.github.io/arcus/) 개발하는
+[ARCUS(Memory Cache Cluster)](http://naver.github.io/arcus/)를 개발하는
 [잼투인(주)](http://www.jam2in.com/)에서 **ARCUS 응용 개발자**를 채용합니다.
 <br /> <br /> 
 
