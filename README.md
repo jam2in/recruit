@@ -14,8 +14,6 @@ ARCUS는 **NAVER, LINE, BAND, KAKAO** 등에서 대량의 요청 처리에 필�
 
 ### 채용 모집 공고
 
-현재 진행 중인 채용입니다. <br />
-
 - [ARCUS 서버 개발자 채용 (2021 02/15 ~ 04/16)](dev_arcus_server_job_202102.md)
 <br /> &nbsp;
 
