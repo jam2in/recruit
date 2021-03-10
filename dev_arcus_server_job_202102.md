@@ -1,4 +1,4 @@
-<img src="images/jam2in_dev_arcus_server_job_image_20210215.png"></img>
+<img src="images/jam2in_dev_arcus_server_job_image_20210309.png"></img>
 
 [ARCUS(Memory Cache Cluster)](http://naver.github.io/arcus/)를 개발하는
 [잼투인(주)](http://www.jam2in.com/)에서 **ARCUS 서버 개발자**를 채용합니다.
