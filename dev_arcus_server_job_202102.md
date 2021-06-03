@@ -1,4 +1,4 @@
-<img src="images/jam2in_dev_arcus_server_job_image_20210416.png"></img>
+<img src="images/jam2in_dev_arcus_server_job_image_20210603.png"></img>
 
 [ARCUS(Memory Cache Cluster)](http://naver.github.io/arcus/)를 개발하는
 [잼투인(주)](http://www.jam2in.com/)에서 **ARCUS 서버 개발자**를 채용합니다.
@@ -55,7 +55,7 @@
 >    - **연봉 포함하여 희망 근무 조건을 기재 바랍니다.**
 >    - 제출처: <recruit@jam2in.com>
 > - 전형절차: 서류전형 => 면접(1 or 2회) => 입사
->    - 서류 결과는 04/21(수)까지 알려 드리며,
+>    - 서류 결과는 08/09(월)까지 알려 드리며,
 >    - 면접 일정은 개별적으로 안내 드립니다.
 > - 기타사항
 >    - 적합한 인력이 없다면 채용하지 않을 수 있습니다.
