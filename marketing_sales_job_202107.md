@@ -1,6 +1,6 @@
 <!-- ## 잼투인(주) ARCUS 마케팅/기술영업 채용 (2021 7/19 ~ 9/30) -->
 
-<img src="https://github.com/jam2in/recruit/blob/master/images/jam2in-marketing-sales-job-image-202006.png" width="80%" height="80%"></img>
+<img src="https://github.com/jam2in/recruit/blob/master/images/jam2in_dev_arcus_marketing_sales_job_image_20210719.png" width="80%" height="80%"></img>
 
 <!--
 ![](https://github.com/jam2in/recruit/blob/master/images/jam2in-marketing-sales-job-image-202006.png)
@@ -38,7 +38,7 @@ ARCUS 시장을 새로이 개척하고 더욱 확장시킬 의지와 실력을 �
 >    - 이력서와 자기소개서(자격 요건의 경험/경력 포함)
 >    - 제출처: <recruit@jam2in.com>
 > - 전형 절차: 서류전형 => 면접(1 or 2회) => 입사
->    - 서류 결과는 7/3(금)까지 알려 드리며,
+>    - 서류 결과는 10/4(월)까지 알려 드리며,
 >    - 면접 일정은 개별적으로 안내 드립니다.
 > - 기타 사항
 >    - 적합한 인력이 없다면 채용하지 않을 수 있습니다.
