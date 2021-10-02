@@ -1,7 +1,6 @@
 <!-- ## 잼투인(주) ARCUS 사업화 인력 채용 -->
 
-[ARCUS(Memory Cache Cluster)](http://naver.github.io/arcus/) 개발하는
-[잼투인(주)](http://www.jam2in.com/)에서 **사업화 인력**을 채용합니다. <br /> 
+[잼투인(주)](http://www.jam2in.com/)에서 [ARCUS 인메모리 분산 캐시](http://naver.github.io/arcus/)의 **사업화 인력**을 채용합니다. <br /> 
 
 NoSQL 제품의 기술, 트렌드, 고객을 이해하면서, <br />
 ARCUS 사업을 확장시킬 의지와 실력을 가진 분이라면 지원 바랍니다. <br />
