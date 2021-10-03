@@ -15,7 +15,7 @@ ARCUS는 **NAVER, LINE, BAND, KAKAO** 등에서 대량의 요청 처리에 필�
 ### 채용 모집 공고
 
 - [ARCUS 캐시 사업화 인력 채용 (수시모집)](business_job_202110.md)
-- ARCUS 캐시 서버 개발자 채용 (수시모집)
+- [ARCUS 캐시 서버 개발자 채용 (수시모집)](dev_arcus_server_job_202110.md)
 <br /> &nbsp;
 <!---
 2020년 잼투인 채용입니다. (현재는 채용 기간이 아니며, 참조 용도입니다.)<br />
