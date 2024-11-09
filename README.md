@@ -18,6 +18,7 @@ ARCUS는 **NAVER, LINE, BAND, KAKAO** 등에서 대량의 요청 처리에 필�
 - [ARCUS 캐시 서버 개발자 채용 (수시모집)](dev_arcus_server_job_always.md)
 - [ARCUS 캐시 응용 개발자 채용 (수시모집)](dev_arcus_apptech_job_always.md)
 <br /> &nbsp;
+
 <!---
 2020년 잼투인 채용입니다. (현재는 채용 기간이 아니며, 참조 용도입니다.)<br />
 
@@ -51,9 +52,10 @@ ARCUS는 **NAVER, LINE, BAND, KAKAO** 등에서 대량의 요청 처리에 필�
   - ARCUS 설치, 사용, 모니터링 등의 사용 용이성 강화
   - ARCUS offline meeting으로 사용자와 커뮤니케이션 강화
 - Storage 또는 database 성격의 **NoSQL 개발**
-  - Key-value data model 또는 document data model을 제공하는 database 개발
+  - Key-value 또는 document 데이터 모델의 database 개발
+  - Vector database 개발
   - Flash memory 최적 활용 기술 개발
-  - cloud management 기술 개발
+  - Cluster management 기술 개발
 
 잼투인(주)은 **개발자 중심 회사**로,
 
