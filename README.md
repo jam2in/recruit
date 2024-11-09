@@ -54,7 +54,7 @@ ARCUS는 **NAVER, LINE, BAND, KAKAO** 등에서 대량의 요청 처리에 필�
 - Storage 또는 database 성격의 **NoSQL 개발**
   - Key-value 또는 document 데이터 모델의 database 개발
   - Vector database 개발
-  - Flash memory 최적 활용 기술 개발
+  - 최신 하드웨어의 최적 활용 기술 개발
   - Cluster management 기술 개발
 
 잼투인(주)은 **개발자 중심 회사**로,
